@@ -8,7 +8,6 @@ Once a sequence is imported, you may perform many of the same operations on the 
 Stop Motion OBJ is able to import very complex mesh sequences that cannot fit in memory. Using [Streaming sequences](https://github.com/neverhood311/Stop-motion-OBJ/wiki#streaming), you can specify how many meshes to keep in memory at any given time and Stop Motion OBJ will automatically load and/or remove meshes so you don’t run out of memory.
 
 
-
 # Gallery
 | | | |
 |:---:|:---:|:---:|
@@ -20,13 +19,15 @@ Stop Motion OBJ is able to import very complex mesh sequences that cannot fit in
 
 
 # Download & Install
-For Blender 2.92+, download the latest release [here](https://github.com/neverhood311/Stop-motion-OBJ/releases/latest). Make sure to download the file named Stop-motion-OBJ-v2.x.x.zip (don't download either of the “Source code” files).
+For Blender 4.0+, download [r2.3.0](https://github.com/neverhood311/Stop-motion-OBJ/releases/latest).
 
 To install, just follow the normal procedure for installing Blender addons. Open Blender and click Edit > Preferences... > Add-ons. Then click Install… and find the .zip file you previously downloaded. Once you’ve enabled the add-on, it should be ready to use immediately.
 
-For Blender 2.91 and earlier, download [r2.1.1](https://github.com/neverhood311/Stop-motion-OBJ/releases/tag/v2.1.1)
+For Blender 2.92-3.6.x, download [r2.2.0](https://github.com/neverhood311/Stop-motion-OBJ/releases/tag/v2.2.0) (no longer supported)
 
-For Blender 2.79 and earlier, download [r1.1.1](https://github.com/neverhood311/Stop-motion-OBJ/releases/tag/0.2.79.2). Note that this version is deprecated and will not be supported.
+For Blender 2.91 and earlier, download [r2.1.1](https://github.com/neverhood311/Stop-motion-OBJ/releases/tag/v2.1.1) (no longer supported)
+
+For Blender 2.79 and earlier, download [r1.1.1](https://github.com/neverhood311/Stop-motion-OBJ/releases/tag/0.2.79.2). (no longer supported)
 
 # Quick Start Tutorial
 <img src="imgs/cached_import_s2g_octree.gif" title="Quick Cached Sequence import">
@@ -44,9 +45,7 @@ Once it’s finished loading, you’re done!
 # How to Support
 Stop Motion OBJ wouldn’t be possible without your help. If you find this add-on helpful, please consider donating to support further development. Everything helps.
 
-- [PayPal](https://www.paypal.com/justinj)
-- [Ko-fi](https://ko-fi.com/stopmotionobj) (buy me a coffee)
-- Bitcoin: 16Bbv5jmKJ2T3dqw2rbaiL6vsoZvyNvaU1
+- Donate via [itch.io](https://neverhood311.itch.io/)
 - Please use [#stopmotionobj](https://twitter.com/search?q=%23stopmotionobj&src=typed_query) when posting to social media
 - Report bugs on the [issues](https://github.com/neverhood311/Stop-motion-OBJ/issues) page or on the [BlenderArtists thread](https://blenderartists.org/t/stop-motion-obj-obj-stl-ply-sequence-importer/670105)
 
